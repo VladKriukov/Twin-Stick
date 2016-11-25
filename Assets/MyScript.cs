@@ -6,6 +6,7 @@ public class MyScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		print ("You found the sausage!");
+		print ("something changed");
 	}
 	
 	// Update is called once per frame
